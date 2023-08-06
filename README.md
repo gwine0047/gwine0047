@@ -16,7 +16,7 @@ Right now, I'm diving deep into the world of software engineering, learning the 
 
 When I'm not coding or dreaming about code, i am probably worrying about one. 
 
-[![Godwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=okoegualegodwin)](https://github.com/gwine0047/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gwine0047)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center">
 </p>
