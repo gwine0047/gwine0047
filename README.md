@@ -1,22 +1,24 @@
-# Hello, World! 👋
+<h1 align="center">Hi 👋, I'm Okoeguale Godwin Kelvin</h1>
+<h3 align="center">A passionate backend developer from Nigeria</h3>
 
-<p align="center">
-  <img src="https://media.licdn.com/dms/image/D4D03AQHWnKGu5j-Vhg/profile-displayphoto-shrink_100_100/0/1676530853721?e=1697068800&v=beta&t=FSecQT4ZO_1TL0uxVP4efpO416_k6lEz6F_IsF4ma44" alt="Okoeguale Godwin" width="200" height="200">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gwine0047&label=Profile%20views&color=0e75b6&style=flat" alt="gwine0047" /> </p>
+
+- 🔭 I’m currently working on [ALX Projects](https://intranet.alxswe.com/projects)
+
+- 📫 How to reach me **okoegualegodwin@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/okoegualegodwin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="okoegualegodwin" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/godwin-okoeguale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/godwin-okoeguale" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/godwin.davies?mibextid=2jq9oc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/godwin.davies?mibextid=2jq9oc" height="30" width="40" /></a>
 </p>
 
-### About Me
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-Hi there! I'm Godwin Okoeguale, a software engineering enthusiast from ALX Africa, currently on a journey to conquer the coding universe. 🚀 I love exploring new technologies and building exciting projects that make the world a better place (or at least put a smile on someone's face 😄).
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gwine0047&show_icons=true&locale=en&layout=compact" alt="gwine0047" /></p>
 
-### Current Mission
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gwine0047&show_icons=true&locale=en" alt="gwine0047" /></p>
 
-Right now, I'm diving deep into the world of software engineering, learning the ins and outs of different programming languages, frameworks, and tools. My ultimate goal is to contribute to meaningful projects, collaborate with awesome developers, and make an impact in the tech community.
-
-### Fun Fact 🎉
-
-When I'm not coding or dreaming about code, i am probably worrying about one. 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gwine0047)](https://github.com/anuraghazra/github-readme-stats)
-
-<p align="center">
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gwine0047&" alt="gwine0047" /></p>
