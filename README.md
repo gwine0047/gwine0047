@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on [ALX Projects](https://intranet.alxswe.com/projects)
 
 - 📫 How to reach me **okoegualegodwin@gmail.com**
-
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/okoegualegodwin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="okoegualegodwin" height="30" width="40" /></a>
